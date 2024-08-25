@@ -15,9 +15,8 @@ Before running this application, make sure you have the following installed:
 
 1. Clone the repository:
    ```
-   git clone <repository-url>
-   cd node-express-mongodb-demo
-   ```
+   git clone https://github.com/mabass2110/Node-mongo
+   cd Node-mongo   ```
 
 2. Install dependencies:
    ```
